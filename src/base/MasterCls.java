@@ -7,15 +7,15 @@ public class MasterCls {
 	
 	public void m1() {
 		
-		int a = 10;
+		int a = 11;
 		a++;
 		System.out.println(a);
 	}
 	
-	public void m2(int a,int b) {
+	public void m2(int a,int b,int c) {
 		
-		int c = a+b;
-		System.out.println(c);
+		int d = a+b+c;
+		System.out.println(d);
 		
 	}
 
