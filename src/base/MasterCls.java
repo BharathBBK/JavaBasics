@@ -7,7 +7,7 @@ public class MasterCls {
 	
 	public void m1() {
 		
-		int a = 10;
+		int a = 11;
 		a++;
 		System.out.println(a);
 	}
