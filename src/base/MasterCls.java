@@ -12,10 +12,10 @@ public class MasterCls {
 		System.out.println(a);
 	}
 	
-	public void m2(int a,int b) {
+	public void m2(int a,int b,int c) {
 		
-		int c = a+b;
-		System.out.println(c);
+		int d = a+b+c;
+		System.out.println(d);
 		
 	}
 
